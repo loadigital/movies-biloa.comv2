@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drama</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../icons/bootstrap-icons.css">
+    <script src="../js/jquery.js"></script>
+</head>
+<body>
+    <header>
+        <div class="co-buton-menu">
+            <div class="boton-menu"><i class="bi-list" id="boton-menu"></i><i class="bi-x" onclick="cerrarx()"></i></div>
+            <div class="boton-search">
+                <button id="bi-search">Buscar <i class="bi-search"></i></button>
+            </div>
+        </div>
+        <div class="co-header">
+            <div class="co-logo">
+                <img src="../img/LOGO1.png" alt="">
+            </div>
+            <div class="co-menu">
+                <li class="link-menu"><a href="../index.html"><p>Inicio</p></a></li>
+                <li class="link-menu"><a href="../peliculas.html"><p>Películas</p></a></li>
+                <li class="link-menu"><a href="../series.html"><p>Series</p></a></li>
+            </div>
+            <div class="co-boton-search">
+                <button id="bi-search-1">Buscar <i class="bi-search"></i></button>
+            </div>
+
+            <div class="co-categorias">
+                <div class="categorias">
+                    <li class="link-categorias"><a href="accion.html"><p>Acción</p></a></li>
+                    <li class="link-categorias"><a href="animacion.html"><p>Animación</p></a></li>
+                    <li class="link-categorias"><a href="aventura.html"><p>Aventura</p></a></li>
+                    <li class="link-categorias"><a href="belico.html"><p>Bélico</p></a></li>
+                    <li class="link-categorias"><a href="comedia.html"><p>Comedia</p></a></li>
+                    <li class="link-categorias"><a href="drama.html"><p>Drama</p></a></li>
+                    <li class="link-categorias"><a href="marvel.html"><p>Marvel</p></a></li>
+                    <li class="link-categorias"><a href="suspenso.html"><p>Suspenso</p></a></li>
+                    <li class="link-categorias"><a href="romance.html"><p>Romance</p></a></li>
+                    <li class="link-categorias"><a href="terror.html"><p>Terror</p></a></li>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+    </header>
+    
+    
+        <div class="co-movies" id="co-movies"></div>
+
+        <template id="tem-movies">
+            <div class="movies">
+                <a href="#"><img src="" alt=""></a>
+                <h5>title</h5>
+            </div>
+        </template>
+    
+        <div class="contenedor-inp" id="contenedor-inp">
+            <div class="cont-inp">
+                <i class="bi-arrow-left-short" id="atras-inp"></i>
+               
+                <input type="text" id="inp" placeholder="Buscar Peliculas y Seires...">
+                <!--<i class="bi-x" id="borrar-inp"></i>-->
+               
+            </div>
+            
+            <div class="movies-index-buscador" id="movies-index-buscador"></div>
+            <template id="tem-buscador">
+                <div class="movies-buscador">
+                    <a href="#"><img src="" alt=""></a>
+                    
+                    <h5>title</h5>
+                </div>
+                </template>
+        </div><!--buscador-->
+    <div class="co-footer">
+        <div class="footer"></div>
+    </div>
+   
+
+<script>//javascript
+
+const co_movies = document.getElementById("co-movies");
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData();
+});
+const fetchData = async () => {
+    try{
+        const res = await fetch('../js/api.json');
+        const data = await res.json();
+        dataPeliculas(data);
+    }catch (error) {
+        console.log(error);
+    };
+};
+
+  const dataPeliculas = data =>{
+
+        for (let index = 0; index < data.length; index++) {
+            const element = data[index];
+            
+            if(element.genero === "Drama"){
+                const div = document.createElement("div");
+                div.className = "movies";
+                const img1 = document.createElement("img");
+                img1.className="img-t mostrar-des";
+                img1.src = element.urlImg;
+                img1.id = element.id;              
+                const a = document.createElement("a");
+                a.href = element.linkVideo;
+                const h50 = document.createElement("h5");
+                h50.textContent = element.title;
+                a.appendChild(img1);
+                div.appendChild(a);
+                div.appendChild(h50);
+                const clone = div.cloneNode(true); 
+                fragment.appendChild(div);
+                co_movies.appendChild(fragment)
+            
+            };
+        };
+    };
+</script>
+<script src="../js/index.js"></script> 
+</body>
+</html>
