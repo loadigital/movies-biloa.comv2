@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 const fetchBusc = async () => {
     try{
-        const res = await fetch('https://loadigital.github.io/page.biloa.v3/js/api.json');
+        const res = await fetch('https://loadigital.github.io/movies-biloa.comv2/js/api.json');
         const data = await res.json();
         movieIndexx(data);
     }catch (error) {
