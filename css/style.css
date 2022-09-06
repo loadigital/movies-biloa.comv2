@@ -448,6 +448,36 @@ header{
     height: 450px; 
     
 }
+.co-img-play-1{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: solid 0px #c4fd09;
+    overflow: none;
+    position: absolute ;
+    background: #000000;
+    }
+    .co-img-play-1 a{
+        border: solid 0px #c4fd09;
+        color: #fff;
+        font-size: 150px;
+        width: 100%;
+        text-align: center;
+    }
+    .co-img-play-1 p{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: flex-end;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        width: 100%;
+        border: solid 0px #c4fd09;
+    }
 
 .contenedor-link{
     border: solid 0px chartreuse;
