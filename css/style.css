@@ -630,20 +630,14 @@ header{
 }
 .comentarios{
     width: 70%;
+    background: #ffffff;
     height: auto;
     border: solid 0px chartreuse;
     position: static;
-    
-}
-.fb-comments{
-    height: auto;
-    position: static;
-    width: 100%;
-    border: solid 0px chartreuse;
-    background: #ffffff;  
     border-radius: 10px 10px;
     
 }
+
 
 
 /*/////////////////////////////////////responsive///////////////////////////*/
