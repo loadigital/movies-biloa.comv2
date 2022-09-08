@@ -398,6 +398,9 @@ header{
 .bi-star, .bi-star-half, .bi-star-fill{
     color:#fcff2f;
 }
+._cartelera{
+    width: 100%;
+}
 /*/////////////////////////////////////video///////////////////////////*/
 .co-video{
     display: flex;
