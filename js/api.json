@@ -1,5 +1,19 @@
 [
   {  
+    "id": "A260",
+    "all": "all",
+    "title": "Nop",
+    "genero": "Terror",
+    "categoria": "Pelicula",
+    "puntuacion": "8.0",
+    "fecha": "2022",
+    "resumen": "(Terror, Misterio, Ciencia ficción, Suspenso) - Dos rancheros de un remoto pueblo del interior de California hacen un descubrimiento tan insólito como escalofriante.",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg",
+    "urlImgDes": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Nop.html",
+    "download": "https://loadigital.github.io/ARCHIVO-NO-DISPONIBLE/"
+  },
+  {  
     "id": "A259",
     "all": "all",
     "title": "Black Phone",
