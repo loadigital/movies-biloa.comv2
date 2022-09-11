@@ -1,5 +1,19 @@
 [
   {  
+    "id": "A264",
+    "all": "all",
+    "title": "El verano en que me enamoré",
+    "genero": "Drama",
+    "categoria": "Serie",
+    "puntuacion": "8.3",
+    "fecha": "2022",
+    "resumen": "(Drama) - Una serie basada en el superventas del New York Times. En verano, Belly y su familia van a la casa de la playa de los Fisher en Cousins. Todos los veranos son iguales... hasta que Belly cumple 16 años. Las relaciones se cuestionarán, se revelarán dolorosas verdades, y Belly cambiará para siempre. Es el verano del primer amor, del primer desamor y del crecimiento: es el verano en que se pone guapa.",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yBtc0XzuA9nadVX2zgXr3Za4mtG.jpg",
+    "urlImgDes": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yBtc0XzuA9nadVX2zgXr3Za4mtG.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/series/El verano en que me enamoré.html",
+    "download": ""
+  },
+  {  
     "id": "A263",
     "all": "all",
     "title": "Samaritan",
