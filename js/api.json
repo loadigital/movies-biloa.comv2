@@ -1,5 +1,19 @@
 [
   {  
+    "id": "A263",
+    "all": "all",
+    "title": "Samaritan",
+    "genero": "Accio",
+    "categoria": "Pelicula",
+    "puntuacion": "7.0",
+    "fecha": "2022",
+    "resumen": "(Acción, Drama, Ciencia ficción) - Sam Cleary (Javon 'Wanna' Walton), un joven de 13 años, sospecha que su misterioso y solitario vecino, el Sr. Smith (Sylvester Stallone), es en realidad un personaje legendario que se esconde a plena vista. Hace 20 años, el vigilante superpoderoso de Granite City, Samaritan, fue declarado muerto tras una batalla en un almacén con su rival, Némesis. La gente cree que Samaritan falleció en el incendio, pero algunos ciudadanos como Sam tienen la esperanza de que siga vivo. Con la delincuencia en aumento y la ciudad al borde del caos, Sam se propone sacar a su vecino de su escondite para salvar la ciudad de la ruina.",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg",
+    "urlImgDes": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Samaritan.html",
+    "download": ""
+  },
+  {  
     "id": "A261",
     "all": "all",
     "title": "Sully",
