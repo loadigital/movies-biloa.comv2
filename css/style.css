@@ -722,9 +722,6 @@ header{
         width: 90%;
     }
     
-    .movies-recomendadas .movies{
-        width: 90%;
-    }
     .co-nav{
         width: 90%; 
     }
@@ -838,7 +835,7 @@ header{
         width: 90%;
     }
     .movies-recomendadas{
-        width: 100%;
+        width: 90%;
     }
     .movies-recomendadas .movies{
 
