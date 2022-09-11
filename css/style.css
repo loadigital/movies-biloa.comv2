@@ -101,8 +101,6 @@ header{
     background-color:var(--color-dos);
 }
 
-
-
 .co-categorias{
     width: 100%;
     display: flex;    
@@ -803,7 +801,6 @@ header{
     }
     .movies img{
         width: 100%;
-       
         padding: 3px 3px;
     }
     .contenedor-inp{
@@ -838,10 +835,9 @@ header{
         width: 90%;
     }
     .movies-recomendadas .movies{
-
         width: 100%;
         border: solid 0px chartreuse;
-        max-width: 125px;
+        max-width: 120px;
     }
     .movies-recomendadas img{
             width: 100%;
