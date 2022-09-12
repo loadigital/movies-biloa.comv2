@@ -1,5 +1,33 @@
 [
   {  
+    "id": "A266",
+    "all": "all",
+    "title": "Cazando a Ava Bravo",
+    "genero": "Terror",
+    "categoria": "Pelicula",
+    "puntuacion": "6.6",
+    "fecha": "2022",
+    "resumen": "(Terror, Suspense, Acción) - El deportista multimillonario Buddy King se relaja cazando cautivos humanos en su remota propiedad en las montañas. Pero su última víctima, Ava Bravo, no es un blanco fácil.",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg",
+    "urlImgDes": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Cazando a Ava Bravo.html",
+    "download": ""
+  },
+  {  
+    "id": "A265",
+    "all": "all",
+    "title": "Vértigo",
+    "genero": "Suspense",
+    "categoria": "Pelicula",
+    "puntuacion": "7.4",
+    "fecha": "2022",
+    "resumen": "(Suspense) - Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra.",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cOWPC7Sg9xoDM5i3uzs4iQtSPUj.jpg",
+    "urlImgDes": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cOWPC7Sg9xoDM5i3uzs4iQtSPUj.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Vértigo.html",
+    "download": ""
+  },
+  {  
     "id": "A264",
     "all": "all",
     "title": "El verano en que me enamoré",
