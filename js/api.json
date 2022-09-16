@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A269",
+    "title": "Sonic 2 La película",
+    "genero": "Animacion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Sonic 2 La película.html"
+  },
+ {  
     "id": "A268",
     "title": "La bestia",
     "genero": "Terror",
