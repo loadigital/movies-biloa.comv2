@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A275",
+    "title": "El sastre de la mafia",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uoMyXY1ReK5I1kkMMQfqod7YhXh.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/El sastre de la mafia.html"
+  },
+ {  
     "id": "A274",
     "title": "Ojos de fuego",
     "genero": "Terror",
