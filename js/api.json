@@ -16,6 +16,14 @@
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Ojos de fuego.html"
   },
  {  
+    "id": "A271",
+    "title": "Infinite",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Infinite.html"
+  },
+ {  
     "id": "A269",
     "title": "Sonic 2 La película",
     "genero": "Animacion",
