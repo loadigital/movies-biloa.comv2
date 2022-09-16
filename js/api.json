@@ -16,6 +16,14 @@
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Ojos de fuego.html"
   },
  {  
+    "id": "A273",
+    "title": "Sala de comunicaciones",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6PnucbcMRLL50DBTig9KUtmAtJ0.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Sala de comunicaciones.html"
+  },
+ {  
     "id": "A272",
     "title": "First Love",
     "genero": "Romance",
