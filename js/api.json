@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A277",
+    "title": "Broad Peak",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Broad Peak.html"
+  },
+ {  
     "id": "A276",
     "title": "Sniper Rogue Mission",
     "genero": "Accion",
