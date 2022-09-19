@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A280",
+    "title": "John Carter",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d63SoIF9EwRWifEGW9fv2k8pog8.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/John Carter.html"
+  },
+ {  
     "id": "A279",
     "title": "El ultimo ataque de Hitle",
     "genero": "Belico",
