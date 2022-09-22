@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A286",
+    "title": "Ghostland",
+    "genero": "Terror",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Ghostland.html"
+  },
+ {  
     "id": "A285",
     "title": "La batalla por Sebastopol",
     "genero": "Drama",
