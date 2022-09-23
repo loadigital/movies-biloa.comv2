@@ -1,5 +1,12 @@
 [
- 
+ {  
+    "id": "A287",
+    "title": "El Inmortal",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jgFebehDmRJLr1SoI52gnpuyDZp.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/el inmortal-22 balas.html"
+  },
  {  
     "id": "A286",
     "title": "Ghostland",
