@@ -8,6 +8,14 @@
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/The Batman.html"
   },
  {  
+    "id": "A289",
+    "title": "El Señor de los Anillos Los Anillos de Poder",
+    "genero": "Accion",
+    "categoria": "Serie",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k6Reu01wavDga2nMOSCKjg3Npdu.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/series/El Señor de los Anillos Los Anillos de Poder.html"
+  },
+ {  
     "id": "A288",
     "title": "La huérfana: Primer asesinato",
     "genero": "Terror",
