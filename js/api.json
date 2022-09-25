@@ -1,5 +1,13 @@
 [
  {  
+    "id": "A290",
+    "title": "The Batman",
+    "genero": "Suspenso",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/The Batman.html"
+  },
+ {  
     "id": "A288",
     "title": "La huérfana: Primer asesinato",
     "genero": "Terror",
