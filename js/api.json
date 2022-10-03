@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A295",
+    "title": "Veneciafrenia",
+    "genero": "Terror",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/luMC56bwZqaECYRz6X7sXjqN6nd.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Veneciafrenia.html"
+  },
+  {  
     "id": "A294",
     "title": "The Ledge",
     "genero": "Suspenso",
