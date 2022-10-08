@@ -439,7 +439,7 @@ header{
     width: 100%;
     max-width: 720px;
     height: auto;
-    
+    background: #000000;
 }
 .play-iframe{
     width: 100%;
