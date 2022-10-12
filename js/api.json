@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A305",
+    "title": "Diarios de la calle",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/j5w663k4IV8eJ8sq6FuqlrUtWXN.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Diarios de la calle.html"
+  },
+  {  
     "id": "A300",
     "title": "Lou",
     "genero": "Accion",
