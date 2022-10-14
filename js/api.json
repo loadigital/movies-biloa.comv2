@@ -8,6 +8,14 @@
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Diarios de la calle.html"
   },
   {  
+    "id": "A304",
+    "title": "Sin aliento",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AqnFoTOKLAtVIf3HtfM5GUd1ivW.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Sin aliento.html"
+  },
+  {  
     "id": "A303",
     "title": "Seminario del mal",
     "genero": "Terror",
