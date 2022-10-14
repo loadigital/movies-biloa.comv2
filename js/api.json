@@ -8,6 +8,14 @@
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Diarios de la calle.html"
   },
   {  
+    "id": "A303",
+    "title": "Seminario del mal",
+    "genero": "Terror",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/il9pLZVGvV5NwDoz79Q2LsX0jnW.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Seminario del mal.html"
+  },
+  {  
     "id": "A302",
     "title": "El retorno de las brujas 2",
     "genero": "Comedia",
