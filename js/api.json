@@ -279,6 +279,14 @@
     "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Infinite.html"
   },
+  {  
+    "id": "A270",
+    "title": "Juego de tronos",
+    "genero": "Drama",
+    "categoria": "Serie",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/series/Juego de tronos.html"
+  },
  {  
     "id": "A269",
     "title": "Sonic 2 La película",
