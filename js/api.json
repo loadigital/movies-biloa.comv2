@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A310",
+    "title": "Cyrano",
+    "genero": "Romance",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/32nYknMmMN3tvVYSy98uth7SbKY.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Cyrano.html"
+  },
+  {  
     "id": "A309",
     "title": "Blackout",
     "genero": "Accion",
