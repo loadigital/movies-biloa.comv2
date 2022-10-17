@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A309",
+    "title": "Blackout",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dr6FkcDnTKyZJNO9W1IJoRk1OQH.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Blackout.html"
+  },
+  {  
     "id": "A308",
     "title": "El Cataclismo",
     "genero": "Terror",
