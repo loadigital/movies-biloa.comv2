@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A314",
+    "title": "En el juego del asesino",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hI3Ic6tFF0jKVu5K415fITQd38C.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/En el juego del asesino.html"
+  },
+  {  
     "id": "A313",
     "title": "Cherry",
     "genero": "Drama",
