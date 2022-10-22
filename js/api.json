@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A313",
+    "title": "Cherry",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Cherry.html"
+  },
+  {  
     "id": "A312",
     "title": "Project Gemini",
     "genero": "Drama",
