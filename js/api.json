@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A311",
+    "title": "El extraño",
+    "genero": "Drama",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vYhPCfSDlLObeV5bUIkmeUyR4gl.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/El extraño.html"
+  },
+  {  
     "id": "A310",
     "title": "Cyrano",
     "genero": "Romance",
