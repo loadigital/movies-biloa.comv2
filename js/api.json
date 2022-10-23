@@ -1,5 +1,14 @@
 [
   {  
+    "id": "A002",
+    "all": "all",
+    "title": "Rapidos y furiosos 9",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/rapidosyfuriosos9.html"
+  },
+  {  
     "id": "A004",
     "title": "Rapidos y Furiosos 3",
     "genero": "Accion",
@@ -3596,21 +3605,7 @@
     "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj65QGN7BZ5Wz3YRII8YjCOh6RHtDJ7_UkCiSOrW-PE94wwdH7jrMKWrr1uxZgn0THNCGYAlwL7hI0xzSxNW1MrZE34vm-mgxlSL1bsrmmIoVUhH-To3jVHHBu7VlYeCx4FrfH_TnbdqNVa7NyQ6yFhJC1-jodPtWPM6rpo6_NeLutRNTooh-3er4V3/s320/GYPCXYMI3ZFEBBJF33RASRHRH4.jpg",
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Venom Carnage Liberado.html"
   },
-    
-    {  
-    "id": "A002",
-    "all": "all",
-    "title": "Rapidos y furiosos 9",
-    "genero": "Accion",
-    "categoria": "Pelicula",
-    "puntuacion": "6.9",
-    "fecha": "25-06-2021",
-    "resumen": " (Acción, Aventura, Drama)-Dom Toretto vive una vida tranquila junto a Letty y su hijo, pero el peligro siempre regresa a su vida. En esta ocasión, el equipo se enfrenta a un complot mundial orquestado por el asesino más temible del mundo: el hermano de Dom.",
-    "urlImg": "https://blogger.googleusercontent.com/img/a/AVvXsEjgDNAy3FCBP7X-aE0RgcQEUDiuU1cypBhavpJUhXmwMfTFTGj8Ck-F0cqoDlp5s6HCaq-cwGPEw9vxrS62OvfDdpeDZCMlDVSqt1GGTMWHOBiV9wh4ENFr9aOcuZo0LMetEunm0FrSCoWyQ1-8Kdp0Z4duNXezymlwSth6NXfhniLVY5wI_aIgCmm0=s439",
-    "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ3YDB4IlnBaXl6DvI2jzwyHci0jweW1Dl-oxUbqOTGwjTio7OVFP2oxjvD6qERtsa94VOLWvWvvwpxqSu1NQjG2NcjiSaNp5oc_MHVMr4pbvWp_5kwRGayLNoOw9MFvja_CIjP5dXOlaRULOnL972885yo9H0grpNXPn_1C3dkUO6U42LaR2cs9ck/s720/images.jpg",
-    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/rapidosyfuriosos9.html"
-  },
-    {
+   {
       "id": "A001",
       "all": "all",
       "title": "La patrulla canina",
