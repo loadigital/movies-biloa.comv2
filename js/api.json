@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A003",
+    "title": "Jungle Cruise",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Jungle Cruise.html"
+  }, 
+  {  
     "id": "A314",
     "title": "En el juego del asesino",
     "genero": "Drama",
@@ -3593,19 +3601,7 @@
     "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hb9b5V6T3ZyjWDwWYWDZMv5i-mIGkCNjiQE7azxEAcxj1pXT_Nxjg9GVJP1HYEn-8R97dbCJC7sYjLe4lrrkb43-KJxjBS_zsppi1jQkDWbK6MQs81lntZYxWMC3y1ozKLZdUrZgc2weWC0YvdioLVuARZ32Jz8WNpsUB2qZr_K2M7Sqnl6J4YnS/s320/52GN65TXSNHANOCNOOI5A4XVYQ.jpg",
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Rapidos y furiosos 3.html"
   }, 
-    {  
-    "id": "A003",
-    "all": "all",
-    "title": "Jungle Cruise",
-    "genero": "Aventura",
-    "categoria": "Pelicula",
-    "puntuacion": "4.3",
-    "fecha": "29-07-2021",
-    "resumen": " (Acción, Aventura, Drama)-Película basada en el paseo en un parque temático de Disneyland donde un pequeño barco fluvial lleva a un grupo de viajeros a través de una jungla llena de peligrosos animales y reptiles, pero con un elemento sobrenatural.",
-    "urlImg": "https://blogger.googleusercontent.com/img/a/AVvXsEj0K4oFQktFGaVitQ0ta6aeEBeEkT5pWm8XS2Xj8yoZ5lEl7xqpsJGfreyCeu-xUnUGhw_swHWpGzLMQQLjvoLg96BOydIcEPIPOJmpTj9NHurJCNm2QFGjNf1A970OO4Su5gsJLeyzSF9pTUgV2-bpfq2AY4CtVDK-0qYtTtjEja0YZ_sxT3XqGIFO=s439",
-    "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNlNc3TKM0cuEypE97eKIbXZK9ZEUrwswE7VJjklxfsqyPE-w3vcS-gl-3fSBcafBQv5rxGElSvHTmY3E_RKKWybfmX3usImeGF-rywveNys3im-7INcIGYbTzLYlpckMi8Ma6CMvvFgi9IVL_RC_GbP6WaRDXbeTyNt1uC3vUdzK8Xa6rGsCE38X_/s320/e8d50d20-f397-11eb-bfd6-724a9140a4a6.jpg",
-    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Jungle Cruise.html"
-  }, 
+    
     {  
     "id": "A002",
     "all": "all",
