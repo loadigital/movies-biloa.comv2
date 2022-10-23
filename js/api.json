@@ -1,5 +1,13 @@
 [
   {  
+    "id": "A004",
+    "title": "Rapidos y Furiosos 3",
+    "genero": "Accion",
+    "categoria": "Pelicula",
+    "urlImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/v9Wu4u2FkGFgT0K9pxUX4IH8UYh.jpg",
+    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Rapidos y Furiosos 3.html"
+  },
+  {  
     "id": "A003",
     "title": "Jungle Cruise",
     "genero": "Accion",
@@ -3588,19 +3596,6 @@
     "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj65QGN7BZ5Wz3YRII8YjCOh6RHtDJ7_UkCiSOrW-PE94wwdH7jrMKWrr1uxZgn0THNCGYAlwL7hI0xzSxNW1MrZE34vm-mgxlSL1bsrmmIoVUhH-To3jVHHBu7VlYeCx4FrfH_TnbdqNVa7NyQ6yFhJC1-jodPtWPM6rpo6_NeLutRNTooh-3er4V3/s320/GYPCXYMI3ZFEBBJF33RASRHRH4.jpg",
     "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Venom Carnage Liberado.html"
   },
-    {  
-    "id": "A004",
-    "all": "all",
-    "title": "Rapidos y furiosos 3",
-    "genero": "Accion",
-    "categoria": "Pelicula",
-    "puntuacion": "7.9",
-    "fecha": "16 de junio de 2006",
-    "resumen": " (Acción, Aventura, Drama)-Sean Boswell siempre se ha sentido como un intruso, pero él se define a sí mismo a través de sus victorias como corredor callejero de autos. Su pasatiempo lo vuelve impopular con las autoridades, así que se va a vivir con su padre a Japón. Una vez allá, y aún más enajenado, Sean descubre un nuevo deporte emocionante, pero peligroso. Las apuestas son muy altas cuando Sean se enfrenta al campeón local y se enamora de su novia.",
-    "urlImg": "https://blogger.googleusercontent.com/img/a/AVvXsEi2_ox77EhRkeCKy4W0Khc7Nhw4bP37kgzej0eh0wKlnJX-jBv7PvZg_jFM0WZgAjXZAPG_i5OLR6b_orxzuSD8vqq8qTdG3Y1ELPC6lgRTzyI_BGlYgMQyIbfOEmAGtRejM3-a8EtzK5F1IEEX7_nJj-pCNwO50Y-EfAjanz8ZSrcj0msaesJOspCb=s439",
-    "urlImgDes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hb9b5V6T3ZyjWDwWYWDZMv5i-mIGkCNjiQE7azxEAcxj1pXT_Nxjg9GVJP1HYEn-8R97dbCJC7sYjLe4lrrkb43-KJxjBS_zsppi1jQkDWbK6MQs81lntZYxWMC3y1ozKLZdUrZgc2weWC0YvdioLVuARZ32Jz8WNpsUB2qZr_K2M7Sqnl6J4YnS/s320/52GN65TXSNHANOCNOOI5A4XVYQ.jpg",
-    "linkVideo": "https://infobiloa.github.io/BD.BILOA.COM/peliculas/Rapidos y furiosos 3.html"
-  }, 
     
     {  
     "id": "A002",
