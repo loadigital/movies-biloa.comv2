@@ -1,4 +1,3 @@
-
 .co-sinopsis-poster p{text-align: justify;}
 .co-video{
     display: flex;
@@ -13,14 +12,14 @@
     background: rgb(0, 0, 0, 0.8);
   	margin-top:20px;
     background: rgb(102, 15, 15);
-  padding: 10px 10px;
+   padding: 10px 10px;
 }
   
 .video{
     border: solid 0px chartreuse;
     width: 100%;
     max-width: 720px;
-    height: auto; 
+    height: 450px; 
     background: #000000;
   	
 }
@@ -31,12 +30,19 @@
     width: 100%;
     max-width: 720px;
     height: 450px;
-    background: #000000;
+   
 }
-.co-enlaces a{
-    margin: 2px;
+@media screen and (max-width: 800px){
+    .co-enlaces{
+        width: 80%;
+    }
+    .co-titulo-enlaces p{
+        color: #fff;
+        font-size: 1px;
+        font-family: arial;
+    }
 }
-.co-enlaces a button{
+.co-enlaces button{
     width: 120px;
     height: 40px;
     font-size: 14px;
@@ -64,10 +70,19 @@
     font-size: 20px;
     font-family: arial;
 }
+@media screen and (max-width: 800px){
+   
+    .co-titulo-enlaces p{
+        color: #fff;
+        font-size: 12px;
+        font-family: arial;
+    }
+}
 .play-iframe{
     width: 100%;
     max-width: 720px;
-    height: 450px;    
+    height: 450px; 
+    display: none;
 }
 
 .modal-coments{
