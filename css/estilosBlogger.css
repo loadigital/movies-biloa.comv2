@@ -36,11 +36,7 @@
     .co-enlaces{
         width: 80%;
     }
-    .co-titulo-enlaces p{
-        color: #fff;
-        font-size: 1px;
-        font-family: arial;
-    }
+    
 }
 .co-enlaces button{
     width: 120px;
@@ -74,7 +70,7 @@
    
     .co-titulo-enlaces p{
         color: #fff;
-        font-size: 12px;
+        font-size: 14px;
         font-family: arial;
     }
 }
