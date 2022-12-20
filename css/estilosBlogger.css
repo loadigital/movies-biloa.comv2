@@ -67,6 +67,9 @@
     font-size: 20px;
     font-family: arial;
 }
+.co-titulo-enlaces a{
+    margin-top: 10px;
+}
 @media screen and (max-width: 800px){
    
     .co-titulo-enlaces p{
