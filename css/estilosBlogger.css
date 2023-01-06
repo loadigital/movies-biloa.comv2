@@ -111,9 +111,30 @@
     align-items: center; 
     border: solid 0px chartreuse;
     width: 100%;
-    height: auto;
-    
-    
+    height: auto;    
 }
+.co-ca-servidor{
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    border: solid 0px chartreuse;
 
+}
+.co-ca-servidor button{
+    width: 150px;
+    height: 30px;
+    background: rgb(255, 255, 255);
+    border-style: none;
+    margin: 3px 0px;
+    border-radius: 3px 3px;
+    font-size: 16px;
+}
+.co-ca-servidor button:hover{
+    cursor: pointer;
+    background: rgb(12, 203, 228);
+}
 
