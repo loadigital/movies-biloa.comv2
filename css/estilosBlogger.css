@@ -37,6 +37,12 @@
     .co-enlaces{
         width: 80%;
     }
+     .video, .play-iframe{
+        
+        height: auto; 
+       
+          
+    }
     
 }
 .co-enlaces button{
